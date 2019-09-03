@@ -17,3 +17,13 @@ I enjoy going to new places. So far, I have been to Italy, Portugal, France, and
 **This is a picture of me at a cat cafe in Japan!**
 
 <img src="images/catcafe.png" width="400" height="400">
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}

@@ -15,4 +15,5 @@ Although I am not great at these things, I like drawing, photography, and garden
 I enjoy going to new places. So far, I have been to Italy, Portugal, France, and more recently, Japan. During my travels I enjoy taking photographs of architecture, landscape, and city life. Other than taking pictures I LOVE to eat! I try to push myself to try new and different foods, but not many things seem off-putting when chicken feet are one of the many foods that I am accustomed to.
 
 This is a picture of me at a cat cafe in Japan! 
+
 <img src="https://github.com/jaylakaita/jaylakaita.github.io/blob/master/images/catcafe.png" width="400" height="400">

@@ -16,4 +16,4 @@ I enjoy going to new places. So far, I have been to Italy, Portugal, France, and
 
 **This is a picture of me at a cat cafe in Japan!**
 
-<img src="https://github.com/jaylakaita/jaylakaita.github.io/blob/master/images/catcafe.png" width="400" height="400">
+<img src="catcafe.png" alt="catcafe" width="400" height="400">

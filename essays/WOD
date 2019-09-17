@@ -1,1 +1,15 @@
+---
+layout: essay
+type: essay
+title: WOD 
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-16
+labels:
+  - History 1
+---
+When I started I was a bit lost already. The H1 title was not showing on the webpage so I decided to open the screencast. After I got past that I was able to create the H2, but I mistakenly pasted the paragraphs as H2 instead of the actual titles. So, I had to undo that. Then, when I had to make the paragraphs I didn’t understand when the instructions asked to ‘preserve’ them. So, I went back to the screencast and did as directed. In the next step it asked to create links which I had no idea how to do so I went back to watching the screencast. I continued going back and forth from my index.html file and the screencast up until the images since that was the only thing I knew how to do. As a result from my first try I went slightly over 58 minutes putting me in DNF time. So, I deleted the index.html file and tried again.
 
+On my second try I was able to follow most of the instructions without any help except for creating the internal links for the Table of Contents. So I pulled up the screencast to where it showed how to make the internal links. There were a lot of little mistakes I made that I had to go back and fix because I was trying to rush and make the SD time. I had just barely made SD time, taking 24 minutes and 35 second to finish.
+
+In my third try I completed the History 1 with no help of the screencast and barely finished it within Rx time. What helped me with my third try was having the webpage open so every time I saved my edits on the index.html I was able to automatically see if I made a mistake and quickly correct it in VS Code.
+ 

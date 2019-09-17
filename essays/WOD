@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: WOD 
-# All dates must be YYYY-MM-DD format!
+title: WOD
+# All dates must be YYYY-Mm-DD format!
 date: 2019-09-16
 labels:
   - History 1
